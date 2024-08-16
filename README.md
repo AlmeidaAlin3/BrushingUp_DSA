@@ -2,6 +2,13 @@
 
 ❤️ *Here are my notes and problem set solutions for the DSA brushing up exercises.*  
 
+<!--
+### **Problem Set #0: Linear Algebra and Multivariable Calculus**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Exercise 1:** Gradients and Hessians](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/ProblemSet0/Exercise1/README.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Exercise 2:** Positive definite matrices](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/ProblemSet0/Exercise2/README.md)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [**Exercise 3:** Eigenvectors and eigenvalues](https://github.com/AlmeidaAlin3/MachineLearning/blob/master/ProblemSet0/Exercise3/README.md)   
+-->
+
 &nbsp;  
 ---
 
